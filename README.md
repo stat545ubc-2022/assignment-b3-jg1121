@@ -15,8 +15,9 @@ I added three new features to the "basic" BC Liquor app that we designed in clas
 - I used the DT package to turn the static table into an interactive table with a search bar and sorting options. This helps the user look for exactly what they want. For example, if they wanted to sort wine by the cheapest cost, they would now be able to. 
 
 
-
-
+## Repository Contents
+- www folder contains the link to the image I used
+- app.R contains the code for the shiny app
 
 
 
