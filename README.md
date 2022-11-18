@@ -21,4 +21,5 @@ I added three new features to the "basic" BC Liquor app that we designed in clas
 
 
 
+### Data
 The BC Liquor data set was pulled from: https://github.com/daattali/shiny-server/blob/master/bcl/data/bcl-data.csv
