@@ -10,7 +10,7 @@ I added three new features to the "basic" BC Liquor app that we designed in clas
 
 - I added an image to the UI of the BC Liquor Store logo as it makes the webpage more visually appealing. I also reduced the size of this image to take up an appropriate amount of the webpage. 
 
-- I added two tabs: one with the plot and one with the table. This helps organize the webpage.
+- I added two tabs: one with the plot and one with the table. This helps to organize the webpage.
 
 - I used the DT package to turn the static table into an interactive table with a search bar and sorting options. This helps the user look for exactly what they want. For example, if they wanted to sort wine by the cheapest cost, they would now be able to. 
 
