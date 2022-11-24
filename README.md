@@ -1,6 +1,6 @@
 # BC Liquors Shiny App
 
-Welcome to my first exploration of a shiny app! [View my shiny app here](http://127.0.0.1:3319)
+Welcome to my first exploration of a shiny app! [View my shiny app here](https://jg1121.shinyapps.io/assignment-b3-jg1121/)
 
 This repository is for assignment 3 of STAT545B at UBC. 
 
