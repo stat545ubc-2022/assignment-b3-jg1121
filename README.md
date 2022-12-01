@@ -33,9 +33,10 @@ For this assignment, I built off of the last version of the website from assignm
 
 
 ### Repository Contents
+- rsconnect/shinyapps.io/jg1121 contains the published shiny app information
 - www folder contains the link to the images I used
 - app.R contains the code for the shiny app
-
+- bcl-data.csv is the csv data file used in the making of the app
 
 
 #### Data
