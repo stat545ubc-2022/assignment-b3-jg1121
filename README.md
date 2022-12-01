@@ -29,14 +29,14 @@ For this assignment, I built off of the last version of the website from assignm
 
 - I added the number of results to be shown when the user filters for their selection
 
-- I added a scatterplot (in a new tab) of alcohol content vs price, colored by alcohol subtype, for users to visualize their options within their selection.
+- I added a scatter plot (in a new tab) of alcohol content vs price, colored by alcohol subtype, for users to visualize their options within their selection.
 
 
 ### Repository Contents
-- rsconnect/shinyapps.io/jg1121 contains the published shiny app information
-- www folder contains the link to the images I used
-- app.R contains the code for the shiny app
-- bcl-data.csv is the csv data file used in the making of the app
+- *rsconnect/shinyapps.io/jg1121* contains the published shiny app information
+- *www* folder contains the link to the images I used
+- *app.R* contains the code for the shiny app
+- *bcl-data.csv* is the csv data file used in the making of the app, the source is explained below.
 
 
 #### Data
