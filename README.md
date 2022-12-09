@@ -4,7 +4,7 @@ Welcome to my first exploration of a shiny app! [View my shiny app here](https:/
 
 This repository is for assignments 3 and 4 of STAT545B at UBC. 
 
-## Asignment 3
+## Assignment 3
 
 For this assignment I chose to do Option A of adding features to our BC Liquor app.
 
